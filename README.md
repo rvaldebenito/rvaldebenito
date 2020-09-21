@@ -1,10 +1,7 @@
-## Welcome to GitHub Pages
+## Rocio Valdebenito 
+I am third year PhD Student in Agricultural and Applied Economics at University of Illinois at Urbana-Champaign. My research interest are Development Economics, Regional Economics and Economics of Education. 
 
-You can use the [editor on GitHub](https://github.com/rvaldebenito/rvaldebenito/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
